@@ -1,0 +1,6 @@
+Color (RGB): Lower Bound, Upper Bound
+The program will select the reference point as all pixels that have all RGB within the allowed range
+
+R: 0 30
+G: 30 90
+B: 110 170
