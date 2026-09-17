@@ -1,0 +1,6 @@
+Color (HSV): Lower Bound, Upper Bound
+The program will select the mass as all pixels that have all RGB within the allowed range
+
+H: 45 90
+S: 25 255
+V: 40 255

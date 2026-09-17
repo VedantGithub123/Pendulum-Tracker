@@ -4,7 +4,7 @@ HOW TO USE:
     1: Modify "mass-color-filter.txt" to the correct bounds for your mass
     2: Modify "reference-color-filter.txt" to the correct bounds for your reference block
         i:   The reference block is at the pivot point
-    3: Add a video to folder"filter-testing-images" to test the filters. The image shown will be the first frame of the video
+    3: Add a video to folder "filter-testing-images" to test the filters. The image shown will be the first frame of the video
     4: Modify "frame-rate.txt" to the frame rate of the videos
     5: Modify "uncertainties.txt" to the correct type B uncertainties
     6: Add all videos to the "videos" folder

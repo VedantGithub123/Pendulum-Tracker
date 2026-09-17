@@ -1,3 +1,0 @@
-Frames per second
-
-30
